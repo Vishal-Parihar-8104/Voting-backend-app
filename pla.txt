@@ -2,6 +2,11 @@ voiting app
 WHAT ???
 A functionality where user can give vote to the given set of candidates
 
+Environment variables (create .env in project root):
+- MONGODB_URL
+- JWT_SECRET
+- JWT_EXPIRES_IN (default 1h)
+- CORS_ORIGIN (default *)
 
 Models?
 Routes?
